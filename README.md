@@ -408,5 +408,3 @@ If you find this plugin useful, consider supporting development:
 
 - **GitHub**: [oktayhaktan0/Wp-Social-Media-Otomation](https://github.com/oktayhaktan0/Wp-Social-Media-Otomation)
 - **Website**: [haktanoktay.com](https://haktanoktay.com)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Website**: [yourwebsite.com](https://yourwebsite.com)
